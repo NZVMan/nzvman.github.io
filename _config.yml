@@ -1,0 +1,4 @@
+# GitHub Pages settings. The site is plain HTML; this only keeps the notes and template private.
+# Folders starting with "_" (like _template) are never published.
+exclude:
+  - README.md
