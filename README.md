@@ -8,6 +8,7 @@ Plain HTML with one shared stylesheet (`assets/site.css`), so there's nothing to
 | App | Support URL | Privacy Policy URL |
 |---|---|---|
 | AstroTonight | https://nzvman.github.io/astrotonight/ | https://nzvman.github.io/astrotonight/privacy.html |
+| Ownsmart | https://nzvman.github.io/ownsmart/ | https://nzvman.github.io/ownsmart/privacy.html |
 
 Paste these into App Store Connect: **Support URL** on the app version page, and **Privacy Policy URL**
 under App Privacy.
