@@ -1,6 +1,6 @@
 # Apps by Vaughan Mitchell: support site
 
-Support pages and privacy policies for my iPhone apps, published with GitHub Pages at
+Support pages and privacy policies for my iPhone and iPad apps, published with GitHub Pages at
 **https://nzvman.github.io/**.
 
 Plain HTML with one shared stylesheet (`assets/site.css`), so there's nothing to build or install.
@@ -9,6 +9,7 @@ Plain HTML with one shared stylesheet (`assets/site.css`), so there's nothing to
 |---|---|---|
 | AstroTonight | https://nzvman.github.io/astrotonight/ | https://nzvman.github.io/astrotonight/privacy.html |
 | Ownsmart | https://nzvman.github.io/ownsmart/ | https://nzvman.github.io/ownsmart/privacy.html |
+| Sum Revision (iPad) | https://nzvman.github.io/sumrevision/ | https://nzvman.github.io/sumrevision/privacy.html |
 
 Paste these into App Store Connect: **Support URL** on the app version page, and **Privacy Policy URL**
 under App Privacy.
